@@ -1,2 +1,2 @@
-# pubgm-api
-PUBG Mobile API | Result Production Tool
+# PUBG MOBILE LIVE RESULT PRODUCTION SOFTWARE
+Hello, 
