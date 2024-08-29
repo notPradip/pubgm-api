@@ -1,5 +1,16 @@
 # PUBG MOBILE LIVE RESULT PRODUCTION SOFTWARE
-Hello, This software will communicate with your PUBGM PCOB to **TournaLink** .
-The software is in beta version but still available for everyone ! 
+The TournaLink Desktop Client is a powerful tool designed to seamlessly integrate with various battle royale games, allowing you to capture in-game data and process it on the TournaLink server. This automated system is ideal for creating real-time results during your broadcasts, streamlining the entire process.
 
-DEMO / SUPPORT: https://dsc.gg/tournalink
+## Supported Games:
+PUBG Mobile (with API and Manual)
+BGMI (Manual)
+Free Fire (Manual)
+PUBG (Manual)
+Farlight 84
+And all other battle royale games
+Key Features:
+**Automated Data Processing**: Capture and process in-game data from PUBG Mobile directly into TournaLink for real-time result generation.
+
+**Semi-Automatic for Other Games**: Also works with Free Fire and other battle royale games with semi-automatic data processing.
+## Get Started
+Try the TournaLink Desktop Client yourself by visiting TournaLink.com.
