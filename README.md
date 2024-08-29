@@ -13,4 +13,4 @@ Key Features:
 
 **Semi-Automatic for Other Games**: Also works with Free Fire and other battle royale games with semi-automatic data processing.
 ## Get Started
-Try the TournaLink Desktop Client yourself by visiting TournaLink.com.
+Try the TournaLink Desktop Client yourself by visiting <a href="https://tournalink.com">TournaLink.com </a> 
