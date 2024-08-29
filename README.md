@@ -10,7 +10,5 @@ Farlight 84<br>
 And all other battle royale games<br> <hr> 
 Key Features:
 **Automated Data Processing**: Capture and process in-game data from PUBG Mobile directly into TournaLink for real-time result generation.
-
-**Semi-Automatic for Other Games**: Also works with Free Fire and other battle royale games with semi-automatic data processing.
 ## Get Started
-Try the TournaLink Desktop Client yourself by visiting <a href="https://tournalink.com">TournaLink.com </a> 
+Try the TournaLink yourself by visiting <a href="https://tournalink.com">TournaLink.com </a> (Cloud App)
