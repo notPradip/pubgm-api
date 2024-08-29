@@ -1,8 +1,0 @@
-{
-  "token": "TournaLink_KEY",
-  "organization": "ORG_ID",
-  "name": "ORG_NAME",
-  "id": ORG_ID,
-  "mode": "production",
-  "log_requests": false
-}
